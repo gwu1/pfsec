@@ -23,8 +23,7 @@
         "forceConsistentCasingInFileNames": true,
         "strict": true,
         "noUnusedLocals": true,
-        "strictPropertyInitialization": false,
-        "esModuleInterop": true
+        "strictPropertyInitialization": false
     },
     "include": [
         "src/**/*.ts"
