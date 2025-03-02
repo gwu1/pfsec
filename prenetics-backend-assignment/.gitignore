@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+node_modules/
+-.DS_Store
+build/
+tmp/
+temp/
+dist/*
+.nyc_output
